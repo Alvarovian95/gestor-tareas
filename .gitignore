@@ -10,3 +10,15 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+backend/GestorTareas/.vs
+backend/GestorTareas/GestorTareas.Tests/obj
+backend/GestorTareas/GestorTareas.Tests/bin
+backend/GestorTareas/GestorTareas.Infrastructure/obj
+backend/GestorTareas/GestorTareas.Infrastructure/bin
+backend/GestorTareas/GestorTareas.Domain/obj
+backend/GestorTareas/GestorTareas.Domain/bin
+backend/GestorTareas/GestorTareas.Application/obj
+backend/GestorTareas/GestorTareas.Application/bin
+backend/GestorTareas/GestorTareas.Api/obj
+backend/GestorTareas/GestorTareas.Api/bin
+backend/GestorTareas/GestorTareas.Api/appsettings.Development.json

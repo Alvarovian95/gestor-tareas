@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentAssertions" Version="8.10.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="9.0.16" />
+    <PackageReference Include="Moq" Version="4.20.72" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GestorTareas.Api\GestorTareas.Api.csproj" />
+    <ProjectReference Include="..\GestorTareas.Application\GestorTareas.Application.csproj" />
+    <ProjectReference Include="..\GestorTareas.Domain\GestorTareas.Domain.csproj" />
+    <ProjectReference Include="..\GestorTareas.Infrastructure\GestorTareas.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
