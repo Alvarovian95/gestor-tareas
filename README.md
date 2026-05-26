@@ -1,4 +1,4 @@
-# Tareando
+# Gestor-tareas
 
 > Organiza tu día, prioriza lo importante y que no se te escape nada.
 
